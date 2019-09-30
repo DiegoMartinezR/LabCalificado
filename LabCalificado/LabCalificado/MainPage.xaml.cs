@@ -15,40 +15,51 @@ namespace LabCalificado
     {
         public MainPage()
         {
-            InitializeComponent();
+           // InitializeComponent();
 
             var stack = new StackLayout();
 
             var btn1 = new Button();
-            btn1.Text = "Boton 01";
+            btn1.Text = "StackLayout";
             btn1.Clicked += btn01;
 
             var btn2 = new Button();
-            btn2.Text = "Boton 02";
+            btn2.Text = "Grid";
             btn2.Clicked += btn02;
 
             var btn3 = new Button();
-            btn2.Text = "Boton 03";
-            btn2.Clicked += btn03;
+            btn3.Text = "H.Navigations";
+            btn3.Clicked += btn03;
 
             var btn4 = new Button();
-            btn2.Text = "Boton 04";
-            btn2.Clicked += btn04;
+            btn4.Text = "TabbedPage";
+            btn4.Clicked += btn04;
 
             var btn5 = new Button();
-            btn2.Text = "Boton 05";
-            btn2.Clicked += btn05;
+            btn5.Text = "Datepicker";
+            btn5.Clicked += btn05;
+
+            var btn6 = new Button();
+            btn6.Text = "Form";
+            btn6.Clicked += btn06;
+
+            stack.Children.Add(btn1);
+            stack.Children.Add(btn2);
+            stack.Children.Add(btn3);
+            stack.Children.Add(btn4);
+            stack.Children.Add(btn5);
+            stack.Children.Add(btn6);
 
             Content = stack;
 
         }
 
-        async private void btn02(object sender, EventArgs e)
+        async private void btn01(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new ejercicio1());
         }
 
-        async private void btn01(object sender, EventArgs e)
+        async private void btn02(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new ejercicio2());
         }
@@ -66,5 +77,9 @@ namespace LabCalificado
             await Navigation.PushAsync(new ejercicio5());
         }
 
+        async private void btn06(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ejercicio6());
+        }
     }
 }

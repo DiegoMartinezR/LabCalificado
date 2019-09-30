@@ -9,11 +9,11 @@
         <StackLayout Spacing="10" x:Name="layout">
             <Button Text="StackLayout" VerticalOptions="Start"
         HorizontalOptions="FillAndExpand" />
-            <BoxView Color="Yellow" VerticalOptions="FillAndExpand"
+            <BoxView Color="Red" VerticalOptions="FillAndExpand"
         HorizontalOptions="FillAndExpand" />
             <BoxView Color="Green" VerticalOptions="FillAndExpand"
         HorizontalOptions="FillAndExpand" />
-            <BoxView HeightRequest="75" Color="Blue" VerticalOptions="End"
+            <BoxView HeightRequest="75" Color="Black" VerticalOptions="End"
         HorizontalOptions="FillAndExpand" />
         </StackLayout>
     </ContentPage.Content>

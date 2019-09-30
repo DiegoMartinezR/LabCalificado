@@ -7,7 +7,7 @@
              x:Class="LabCalificado.Page2">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Page 2"
+            <Label Text="Second form"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 

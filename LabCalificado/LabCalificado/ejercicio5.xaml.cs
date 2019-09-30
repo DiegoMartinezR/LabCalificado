@@ -15,6 +15,14 @@ namespace LabCalificado
         public ejercicio5()
         {
             InitializeComponent();
+
+
+
+                datepicker.MinimumDate = new DateTime(2019, 1, 1);
+                datepicker.MaximumDate = new DateTime(2019, 12, 31);
+                datepicker.Date = new DateTime(2019, 9, 30);
+
+
         }
     }
 }

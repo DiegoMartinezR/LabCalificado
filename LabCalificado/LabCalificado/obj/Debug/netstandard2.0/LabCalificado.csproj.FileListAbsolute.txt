@@ -15,3 +15,5 @@ C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\
 C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.dll
 C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.pdb
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\ejercicio6.xaml.g.cs

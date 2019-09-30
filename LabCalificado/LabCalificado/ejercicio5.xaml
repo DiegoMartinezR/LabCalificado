@@ -4,9 +4,7 @@
              x:Class="LabCalificado.ejercicio5">
     <ContentPage.Content>
         <StackLayout>
-            <DatePicker MinimumDate="01/01/2019"
-            MaximumDate="12/31/2019"
-            Date="09/30/2018" />
+            <DatePicker x:Name="datepicker" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
