@@ -1,0 +1,17 @@
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\bin\Debug\netstandard2.0\LabCalificado.deps.json
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\bin\Debug\netstandard2.0\LabCalificado.dll
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\bin\Debug\netstandard2.0\LabCalificado.pdb
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.csprojAssemblyReference.cache
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\ejercicio1.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\ejercicio2.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\ejercicio3.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\ejercicio4.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\ejercicio5.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.AssemblyInfoInputs.cache
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.AssemblyInfo.cs
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.dll
+C:\Users\DIEGO\source\repos\LabCalificado\LabCalificado\LabCalificado\obj\Debug\netstandard2.0\LabCalificado.pdb
